@@ -15,6 +15,9 @@ A TUI wrapper for Revanced CLI with amazing features.
 7. Convenient Installation and usage
 6. Lightweight and faster than any other tool
 
+# Prerequisites
+- Vanced MicroG is required for YouTube and YouTube Music (Only for non-root). Install it [here](https://github.com/inotia00/VancedMicroG/releases)
+
 # Installation
 1. Open Termux.  
 2. Copy and paste this command.  
